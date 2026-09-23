@@ -1,0 +1,3 @@
+BazingaA
+echo "# lolololo" >> README.mdg
+brehsasda
